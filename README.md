@@ -1,0 +1,1 @@
+In this repository we include the possible attacks embedded in a NFC tag, that can be used. These attacks corresponds to the paper: _Steal Your Life Using 5 Cents: Hacking Android Smartphones with NFC Tags_
