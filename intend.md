@@ -1,4 +1,4 @@
-# Intend
+# Intent
 
 The attacker uses intent-action approaches embedded in the NFC tag. Once a user touches the NFC tag, a malicious contact or other embedded actions such as turn on the WiFi or Bluetooth will be carried out.
 
